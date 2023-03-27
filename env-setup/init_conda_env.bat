@@ -1,0 +1,1 @@
+conda env create --file rspw.win.yml
