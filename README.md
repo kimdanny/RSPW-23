@@ -6,10 +6,10 @@
 Before attending the workshop, we encourage you to set up your own python development environment, although we will walk you through how to set it up at the first day.
 
 Please refer to:
-- [Anaconda Guide](https://github.com/aldolipani/RSPW/blob/main/Day0/Anaconda.md)
-- [Anaconda Guide for Macbook M1 Users](https://github.com/aldolipani/RSPW/blob/main/Day0/Anaconda-M1.md)
+- [Anaconda Guide](https://github.com/kimdanny/RSPW-23/blob/main/env-setup/Anaconda.md)
+- [Anaconda Guide for Macbook M1 Users](https://github.com/kimdanny/RSPW-23/blob/main/env-setup/Anaconda-M1.md)
 
-If you do not wish to set up a local environment, you can open the [Google Colab](https://colab.research.google.com) and search for this repository (https://github.com/aldolipani/RSPW).
+If you do not wish to set up a local environment, you can open the [Google Colab](https://colab.research.google.com) and search for this repository (https://github.com/kimdanny/RSPW-23).
 
 
 ### Day 1
